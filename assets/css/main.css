@@ -2898,7 +2898,8 @@
 			}
 
 			.wrapper.style2 a {
-				color: #8a4680;
+				color: #000;
+				text-decoration: none;
 			}
 
 			.wrapper.style2 strong, .wrapper.style2 b {
